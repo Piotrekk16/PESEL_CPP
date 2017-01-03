@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483472727 source:c:\users\piotrek\documents\cb\pesel\main.cpp
+	<iostream>
+	<cstring>
+
